@@ -1,6 +1,6 @@
 ### Steeve Laquitaine
 
-Check my website for the full list of my repositories: https://steevelaquitaine.github.io
+Check my website for the full list of my repositories, scientific papers, teaching: https://steevelaquitaine.github.io
 
 <!--
 **steevelaquitaine/steevelaquitaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
