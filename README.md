@@ -2,6 +2,10 @@
 
 Check my website for the full list of my repositories, scientific papers, teaching: https://steevelaquitaine.github.io
 
+ORCID: https://orcid.org/0000-0002-9647-3149. 
+Google scholar: https://scholar.google.com/citations?user=ftTg_S4AAAAJ&hl=fr&oi=ao
+
+
 <!--
 **steevelaquitaine/steevelaquitaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
